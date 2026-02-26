@@ -1,4 +1,4 @@
-Deploy Demo:https://app.netlify.com/projects/stupendous-maamoul-3e0e12/
+Deploy Demo:https://stupendous-maamoul-3e0e12.netlify.app/
 
 
 
